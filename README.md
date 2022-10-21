@@ -11,3 +11,4 @@ Mateus Santana - Be Dev Club	| Mateus Santana	|Youtube	Discord
 Projeto Voa Juninho	          | Sara	  | Linkedin	whatsapp			
 Tech para o bem               | Laurem  | https://www.linkedin.com/in/lauremcrossetti/
 Le Wagon                      | Mathieu Le Roux   |https://www.linkedin.com/in/matleroux/
+Julio Pio Papa                | Julio Pio Papa |https://www.linkedin.com/in/juliopiopapa/
