@@ -13,3 +13,4 @@ Tech para o bem               | Laurem  | https://www.linkedin.com/in/lauremcros
 Le Wagon                      | Mathieu Le Roux   |https://www.linkedin.com/in/matleroux/
 Julio Pio Papa                | Julio Pio Papa |https://www.linkedin.com/in/juliopiopapa/
 Caio Maldonado  | apoio nas vagas de Jr | https://www.linkedin.com/in/caio-maldonado/
+Carlos | Devit-se | https://devit-se.com.br/
