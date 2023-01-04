@@ -14,3 +14,4 @@ Le Wagon                      | Mathieu Le Roux   |https://www.linkedin.com/in/m
 Julio Pio Papa                | Julio Pio Papa |https://www.linkedin.com/in/juliopiopapa/
 Caio Maldonado  | apoio nas vagas de Jr | https://www.linkedin.com/in/caio-maldonado/
 Carlos | Devit-se | https://devit-se.com.br/
+Orange Juice |Guilherme Silva|  https://discord.gg/orangejuicetech|
